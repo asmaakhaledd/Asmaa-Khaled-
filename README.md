@@ -1,6 +1,6 @@
-<h3 align="center">Hi! I'm Asmaa</h3>
+<h2 align="center">Hi! I'm Asmaa</h2>
 <h3 align="center">A Biomedical Engineering student at Cairo University</h3>
-<h2 align="center">I’m looking to collaborate on something new and interesting!</h2>
+<h3 align="center">I’m looking to collaborate on something new and interesting!</h3>
 
 
 <h3 align="left">Connect with me:</h3>
